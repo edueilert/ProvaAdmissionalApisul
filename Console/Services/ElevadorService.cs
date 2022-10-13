@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using Console.Entidade;
-using Console.Services.Interface;
+using ProvaAdmissionalCSharpApisul;
 
 namespace Console.Services
 {
